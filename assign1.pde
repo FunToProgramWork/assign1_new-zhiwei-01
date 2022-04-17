@@ -55,5 +55,4 @@ void draw(){   // Enter Your Code Here
   stroke(255, 255, 0);//big circle color --> sun
   fill(253, 184, 19);//small circle color --> sun
   circle(590,50,120);//circle location --> sun
-    
 }
