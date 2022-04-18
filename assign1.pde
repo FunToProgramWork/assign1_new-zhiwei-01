@@ -55,5 +55,5 @@ void draw(){   // Enter Your Code Here
   ellipse(590,50, 130, 130); --> sun
   stroke(253, 184, 19); --> sun
   fill(253, 184, 19); --> sun
-  ellipse(590,50, 120, 120); --> sun
+ 
 }
