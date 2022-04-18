@@ -51,8 +51,9 @@ void draw(){   // Enter Your Code Here
   
   image(groundhogImg,280,80);//Draw groundhog img on (280,80)
   
-  strokeWeight(5);//circle thickness is 5 --> sun
-  stroke(255, 255, 0);//big circle color --> sun
-  fill(253, 184, 19);//small circle color --> sun
-  circle(590,50,120);//circle location --> sun
+  stroke(300, 300, 0); --> sun
+  ellipse(590,50, 130, 130); --> sun
+  stroke(253, 184, 19); --> sun
+  fill(253, 184, 19); --> sun
+  ellipse(590,50, 120, 120); --> sun
 }
